@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hypicycl.github.io/sitemap.hypicycl.gz
+Sitemap: https://hypicycl.github.io/app/sitemap.hypicycl.gz
+Sitemap: https://hypicycl.github.io/assets/sitemap.hypicycl.gz
+Sitemap: https://hypicycl.github.io/css/sitemap.hypicycl.gz
+Sitemap: https://hypicycl.github.io/data/sitemap.hypicycl.gz
+Sitemap: https://hypicycl.github.io/includes/sitemap.hypicycl.gz
+Sitemap: https://hypicycl.github.io/item/sitemap.hypicycl.gz
+Sitemap: https://hypicycl.github.io/src/sitemap.hypicycl.gz
